@@ -1,6 +1,6 @@
 # EasyBuild  — Собери комп, а не гроб
 
-<!-- СЮДА ВСТАВИМ БЕЙДЖ ПОЗЖЕ -->
+[![Deploy static site](https://github.com/cathv5/site-cicd/actions/workflows/deploy.yml/badge.svg)](https://github.com/cathv5/site-cicd/actions/workflows/deploy.yml)
 
 Добро пожаловать в репозиторий проекта **EasyBuild**. Это лендинг-страница сервиса по подбору и сборке персональных компьютеров с гарантией совместимости комплектующих.
 
